@@ -29,3 +29,5 @@ To run the backend simply run the `main.py` file with `cd backend && python main
 To run the frontend simply run `npm start` from `/frontend`.
 
 
+
+## If you are contributing feel free to reach me at ujjwalagrawal1248@gmail.com
