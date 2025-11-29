@@ -31,3 +31,7 @@ To run the frontend simply run `npm start` from `/frontend`.
 
 
 ## If you are contributing feel free to reach me at ujjwalagrawal1248@gmail.com
+
+
+Frontend Deployed at:
+## https://smart01.vercel.app/
